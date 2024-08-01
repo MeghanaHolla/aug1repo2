@@ -1,0 +1,21 @@
+1. Verify user is able to login when valid email and valid password is entered. - P
+2. Verify application throws error when invalid email is entered. -N
+3. Verify application throws error when valid email and invalid password is entered. - N
+4. Verify application throws error when email address field is left blank. - N
+5. Verufy application throws error when passowrd field is left blank. - N
+6. Verify captch for login - P
+7. Verify clicking on show link will show the typed passowrd. clicking on hide will mask it. - P
+8. Verify application throws error when email address format is incorrect. - N
+9. Verify user account is locked after 3 invalid password attempts. - N
+
+
+
+
+
+
+
+
+
+n'
+
+
