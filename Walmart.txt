@@ -7,7 +7,7 @@
 7. Verify clicking on show link will show the typed passowrd. clicking on hide will mask it. - P
 8. Verify application throws error when email address format is incorrect. - N
 9. Verify user account is locked after 3 invalid password attempts. - N
-
+10. New line
 
 
 
